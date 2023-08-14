@@ -62,5 +62,6 @@ If you use this code or ideas from the paper for your research, please cite our 
 
 ## Acknowledgement
 This work is supported by Randstad and ANR REFLETS.
+
 ![CentraleSupelec](Figs/logo1.png)
 ![Randstad](Figs/logo2.png)
