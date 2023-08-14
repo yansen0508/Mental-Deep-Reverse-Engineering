@@ -1,4 +1,4 @@
-# Mental-Deep-Reverse-Engineering
+# Combining GAN with reverse correlation to construct personalized facial expressions
 This is the official implementation of our journal [paper](https://) "Combining GAN with reverse correlation to construct personalized facial expressions".
 
 For more information, please refer to our project website: [Mental-Deep-Reverse-Engineering](https://yansen0508.github.io/emotional-prototype/).
