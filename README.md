@@ -9,7 +9,7 @@ For more information, please refer to our project website: [Mental-Deep-Reverse-
 
 
 ## Approach
-
+![General pipeline](Figs/pipeline.tif)
 
 ## Requirements
 Please install Pytorch, Torchvision, [Psychopy](https://www.psychopy.org/), and dependencies.
