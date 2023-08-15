@@ -105,7 +105,9 @@ If you use this code or ideas from the paper for your research, please cite our 
 ```
 
 ## Acknowledgement
-This work is supported by Randstad and ANR REFLETS.
+This repository is built based on [GANimation](https://github.com/albertpumarola/GANimation), and [Openface](https://github.com/TadasBaltrusaitis/OpenFace). Sincere thanks to their wonderful works.
+
+This project is supported by Randstad and ANR REFLETS.
 
 ![CentraleSupelec](Figs/logo1.png)
 ![Randstad](Figs/logo2.png)
