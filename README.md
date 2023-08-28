@@ -1,7 +1,9 @@
 # Combining GAN with reverse correlation to construct personalized facial expressions
-This is the official implementation of our journal [[paper]](https://hal.science/hal-04183020/document) "Combining GAN with reverse correlation to construct personalized facial expressions". (open-access [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290612))
+This is the official implementation of our journal [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290612) "Combining GAN with reverse correlation to construct personalized facial expressions". 
 
 For more information, please refer to our project website: [Mental-Deep-Reverse-Engineering](https://yansen0508.github.io/emotional-prototype/).
+
+[Update: 25/08/23] Paper is available [here](https://hal.science/hal-04183020/document).
 
 <p style="color: red;">[Update: 22/08/2023] Paper will be published on 25th Aug on PloS One.</p>
 
