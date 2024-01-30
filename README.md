@@ -108,6 +108,9 @@ If you use this code or ideas from the paper for your research, please cite our 
 }
 ```
 
+## Others
+To optimize this process, please refer to our work [IMGA](https://github.com/yansen0508/IMGA).
+
 ## Acknowledgement
 This repository is built based on [GANimation](https://github.com/albertpumarola/GANimation), and [Openface](https://github.com/TadasBaltrusaitis/OpenFace). Sincere thanks to their wonderful works.
 
